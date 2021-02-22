@@ -88,4 +88,14 @@ Supported algorithms:
       4. above normal
       5. high
       Default: -PP 3
+      
+##### Example mining Ravencoins:
+
+
+      1. Switch your current working directory to TT-Miner directory(Downloaded from above links)
+      2. TT-Miner -a KAWPOW -coin RVN -o stratum+tcp://asia.ravenminer.com:3838 -u RGMPWoEn19s684AskGShU34G6eYUNwubpi.default
+    
+      
+      
+     
 
